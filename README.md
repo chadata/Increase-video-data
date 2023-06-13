@@ -1,5 +1,3 @@
-# Increase-video-data
-
 
 # 데이터 증대를 위한 이미지 처리 코드
 
