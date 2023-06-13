@@ -19,12 +19,12 @@
 
 3. 코드를 실행하기 전에 `Hands` 디렉토리에 처리할 이미지 파일들을 준비합니다.
 
-4. `main.py` 파일을 열고 `Hands` 디렉토리와 `Result` 디렉토리를 각각 올바른 경로로 수정합니다.
+4. `Increase-video-data.py` 파일을 열고 `Hands` 디렉토리와 `Result` 디렉토리를 각각 올바른 경로로 수정합니다.
 
 5. 코드를 실행하여 데이터 증대 작업을 수행합니다:
 
    ```shell
-   python main.py
+   python Increase-video-data.py
    ```
 
    이 코드는 `Hands` 디렉토리에 있는 이미지들을 읽어와 변환을 적용한 후 `Result` 디렉토리에 결과를 저장합니다.
